@@ -1,6 +1,6 @@
 # Project Name :books:
 ----------
- > ### *Dasmoto`s Arts & Crafts*
+ ### *Dasmoto`s Arts & Crafts*
 
 
 ## Table of Contents
